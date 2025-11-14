@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Developer Banner](banner.png)
+![Developer Banner](readmegiphi.gif)
 
 <h1 align="center">Hi 👋, I'm Bilal Alam</h1>
 <h3 align="center">BSCS Student | Java & JavaScript Developer | Full-Stack Enthusiast</h3>
